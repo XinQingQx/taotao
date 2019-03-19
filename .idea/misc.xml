@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Demo" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-cart/taotao-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-content/taotao-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-item-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-manager/taotao-manager-service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-order-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-order/taotao-order-Service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-search/taotao-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-sso-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-sso/taotao-sso-service" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/taotao-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-common/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-content/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-search/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-search-web/pom.xml" />
+        <option value="$PROJECT_DIR$/other/itheima-activemq/pom.xml" />
+        <option value="$PROJECT_DIR$/other/itheima-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/other/itheima-httpclient/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-item-web/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-sso-web/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-cart-web/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-order/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-order-web/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/taotao-sso/com-sso-service/pom.xml" />
+      </set>
+    </option>
+  </component>
+</project>

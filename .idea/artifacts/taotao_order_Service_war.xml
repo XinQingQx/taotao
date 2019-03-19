@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="taotao-order-Service:war">
+    <output-path>$PROJECT_DIR$/taotao-order/taotao-order-Service/target</output-path>
+    <root id="archive" name="taotao-order-Service.war">
+      <element id="artifact" artifact-name="taotao-order-Service:war exploded" />
+    </root>
+  </artifact>
+</component>
